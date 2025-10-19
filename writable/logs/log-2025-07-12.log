@@ -1,0 +1,156 @@
+DEBUG - 2025-07-12 00:21:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 01:28:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 01:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 02:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 05:05:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 05:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 06:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 06:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 08:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 09:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 11:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 12:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-12 12:56:13 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-12 12:56:13 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-12 12:56:13 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-12 12:56:13 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-12 12:56:13 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-12 12:56:13 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-12 12:56:13 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-12 12:56:13 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-12 12:56:13 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-12 12:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 13:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:22:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:25:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:25:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:26:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 14:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 16:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 16:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 19:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 19:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 20:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 21:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 22:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 22:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 22:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 22:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-12 22:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

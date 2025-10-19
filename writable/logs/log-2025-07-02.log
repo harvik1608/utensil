@@ -1,0 +1,2020 @@
+DEBUG - 2025-07-02 01:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 01:40:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 03:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 03:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 03:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 03:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 04:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 08:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 09:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 09:59:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:48:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:48:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:54:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:54:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 10:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:58:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:58:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:58:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:58:33 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 10:58:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 10:59:07 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 10:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 10:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:00:26 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:01:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:07:44 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:07:44 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:07:44 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:07:44 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:07:44 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:09:17 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:09:17 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:09:17 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:09:17 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:09:17 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:13:27 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:17:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:17:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:17:58 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:18:35 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:18:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:19:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:19:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:19:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:19:11 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:19:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:20:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:20:55 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:21:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:21:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:27:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:27:52 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:28:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 11:29:38 --> [DEPRECATED] addslashes(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/service_list.php on line 10.
+ 1 APPPATH/Views/service_list.php(10): addslashes(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/service_list.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('service_list', [], true)
+ 5 APPPATH/Controllers/Home.php(129): view('service_list', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Home->fetch_services()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 11:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:45:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:48:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:48:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:50:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:50:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:50:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:51:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:52:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:57:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 11:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:01:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:01:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:04:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:04:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:11:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-07-02 12:14:11 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 12:14:11 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 12:14:11 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 12:14:11 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-07-02 12:14:11 --> [DEPRECATED] trim(): Passing null to parameter #1 ($string) of type string is deprecated in APPPATH/Views/user/view_appointment.php on line 25.
+ 1 APPPATH/Views/user/view_appointment.php(25): trim(null)
+ 2 SYSTEMPATH/View/View.php(224): include('/home/u810214334/domains/elsauk.com/public_html/app/Views/user/view_appointment.php')
+ 3 SYSTEMPATH/View/View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1173): CodeIgniter\View\View->render('user/view_appointment', [], true)
+ 5 APPPATH/Controllers/Dashboard.php(248): view('user/view_appointment', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Dashboard->view_appointment()
+ 7 SYSTEMPATH/CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH/CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(57): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-07-02 12:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:19:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:20:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:21:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:22:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:24:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:24:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:26:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:26:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:28:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:28:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:29:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 12:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 13:33:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 15:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 15:38:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 15:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 16:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 16:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 16:09:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 16:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 16:13:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 16:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 16:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 17:05:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 17:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 17:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 17:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 18:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 20:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 21:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 22:11:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 22:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 22:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 22:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 23:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 23:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-02 23:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
